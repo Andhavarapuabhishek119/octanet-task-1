@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FitLife - Transform Your Life</title>
+  <link rel="stylesheet" href="styles.css"> <!-- Linking the CSS file -->
+</head>
+<body>
+  <header class="hero-section">
+    <h1>FitLife</h1>
+    <p>Transform Your Life with FitLife</p>
+    <a href="#features" class="cta-button">Get Started</a>
+  </header>
+  <section id="features" class="features-section">
+    <h2>Features</h2>
+    <div class="features-grid">
+      <div class="feature-item">Personalized Workout Plans</div>
+      <div class="feature-item">Nutrition Tracking</div>
+      <div class="feature-item">Progress Monitoring</div>
+      <div class="feature-item">Community Support</div>
+    </div>
+  </section>
+  <section id="testimonials" class="testimonials-section">
+    <h2>What Our Users Say</h2>
+    <div class="testimonials-grid">
+      <div class="testimonial-item">"FitLife changed my life!" - User A</div>
+      <div class="testimonial-item">"Best app for fitness!" - User B</div>
+      <div class="testimonial-item">"Highly recommend FitLife." - User C</div>
+    </div>
+  </section>
+  <section id="pricing" class="pricing-section">
+    <h2>Pricing</h2>
+    <div class="pricing-grid">
+      <div class="pricing-plan">Basic Plan</div>
+      <div class="pricing-plan">Premium Plan</div>
+      <div class="pricing-plan">Family Plan</div>
+    </div>
+  </section>
+  <footer class="footer-section">
+    <div class="social-media-links">Follow us: Facebook | Twitter | Instagram</div>
+    <div class="contact-info">Contact: info@fitlife.com</div>
+  </footer>
+</body>
+</html>
